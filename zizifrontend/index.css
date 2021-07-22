@@ -1,0 +1,290 @@
+body {
+    margin: 0;
+    background-color: rgba(241, 235, 235, 0.986);
+}
+
+/* section1 */
+
+
+#sect1 {
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    top: 0;
+   padding: 0 100% 70px;
+   background-color: rgb(10, 163, 10);
+ 
+}
+
+strong {
+   position: fixed;
+   top: 0.7rem;
+   left: 19rem;
+   color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   opacity: 0.5;
+}
+#sell {
+    border-radius: 3px;
+    text-decoration: none;
+    background-color: rgb(250, 186, 23);
+    position: fixed;
+    top: 1rem;
+    right: 3rem;
+    padding: 0.7rem 2.6rem;
+    color: honeydew;
+}
+#sn {
+    position: fixed;
+    top: 1.3rem;
+    right: 22rem;
+    color: rgba(255, 255, 255, 0.904);
+    text-decoration: none;
+    
+}
+#reg {
+    position: fixed;
+    top: 1.3rem;
+    right: 15rem;
+    color: rgba(255, 255, 255, 0.904);
+    text-decoration: none;
+}
+h1 {
+    position: fixed;
+    top: 0rem;
+    left: 6rem;
+    color: rgba(255, 255, 255, 0.829);
+}
+
+
+b {
+    border-radius: 100px;
+    padding: 0.2rem;
+background-color: white;
+color: rgb(22, 155, 22);
+}
+
+/* section2 */
+
+#sect2 {
+    max-width: 100%;
+    position: relative;
+    display: block;
+    background-color: rgb(50, 168, 50);
+  top: 60px;
+padding: 60px 1em 220px;
+
+ 
+}
+
+
+input[type=text] {
+    position: absolute;
+   height: 52px;
+ top: 50%;
+ left: 30%;
+   margin: 0;
+    border-radius: 3px;
+  }
+
+  
+  button {
+    position: absolute;
+     background-color: rgb(250, 186, 23);
+     top: 50%;
+     border-radius: 3px;
+     right: 32%;
+ }
+
+ #all-in {
+     position: absolute;
+     top: 20%;
+     left: 35%;
+     color: blanchedalmond;
+     font-size: 16px;
+ }
+
+ 
+ #all {
+    position: absolute;
+top: 27%;
+left: 47%;
+padding: 2px;
+background-color: black;
+color: blanchedalmond;
+border-radius: 11px;
+font-size: 20px;
+text-decoration: none;
+}
+
+
+/* section3 */
+
+
+#sect3 {
+
+margin: 0 100px;
+    
+}
+#sect3 a {
+    height: 160cm;
+    width: 280cm;
+}
+
+#ffrow {
+display: flex;
+   position: relative;
+  
+  justify-content: space-evenly;
+   top: 146px;
+   
+   max-width: 100%;
+  
+  
+}
+#ffrow a {
+background-color: white;
+
+height: 120px;
+
+width: 120px;
+}
+#ffrow a h5 {
+   
+  
+   
+    text-align: center;
+}
+
+#ssrow {
+    display: flex;
+top: 150px;
+max-width: 100%;
+position: relative;
+justify-content: space-around;
+
+}
+
+#ssrow a {
+
+    background-color: white;
+   
+    
+height: 120px;
+
+width: 120px;
+}
+
+#ttrow {
+   display: flex;
+top: 154px;
+max-width: 100%;
+position: relative;
+
+
+
+}
+
+#ttrow a {
+
+    background-color: white;
+   
+    
+height: 120px;
+
+width: 120px;
+ 
+}
+
+
+/* section4 */
+
+#sect4  {
+    margin: 0 130px;
+}
+
+#lfrow {
+    display: flex;
+    position: relative;
+    top: 300px;
+    justify-content: space-around;
+}
+
+#lsrow {
+display: flex;
+position: relative;
+top: 310px;
+justify-content: space-around;
+}
+
+
+#ltrow {
+    display: flex;
+    position: relative;
+    top: 310px;
+    justify-content: space-around;
+    }
+    
+
+    #lforow {
+        display: flex;
+        position: relative;
+        top: 310px;
+        justify-content: space-around;
+        }
+        
+       
+        #dow {
+            position: relative;
+            top: 2px;
+           
+        }
+        #down {
+            position: relative;
+top: 480px;
+max-width: 100%;
+background-color: rgb(51, 184, 51);
+            padding: 160px 1em;
+        }
+/*
+#sect1-item {
+   background-color: green;
+   height: 45px;
+   width: 100%;
+   position: static;
+}
+#regsn {
+    position: relative;
+    float: right;
+    top: 35px;
+}
+/*
+#sect2 {
+
+}  
+
+#sect3 {
+
+    
+    
+    
+    padding: 0px auto 0px;
+}
+.t1{
+    padding: 1.5cm 1.2cm;
+    background-color: white;
+    flex: 100%;
+}
+
+body {
+    background-color: rgb(223, 217, 217);
+    align-content: center;
+}
+.firsttable {
+    align-items: center;
+    flex: 100%;
+}
+form {
+    align-content: center;
+}
+    */
